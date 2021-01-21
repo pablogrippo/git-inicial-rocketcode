@@ -1,1 +1,1 @@
-# git-inicial-rocketcode
+Curso GitHub Inicial de RocketCode. 
